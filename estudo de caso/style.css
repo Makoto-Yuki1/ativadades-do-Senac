@@ -1,38 +1,4 @@
 @charset "UTF-8";
-@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
-
-:root {
-   --cor-principal: purple
-}
-h1{
-    font-family:"Parisienne", cursive;
-     color:blueviolet;
-}
-p{
-    color: var(--cor-principal);
-}
-#titulo-principal {
-    color: red;
-}
-
-.topico{
- background-color: lightyellow;
- color: aliceblue;
-
-}
-a {
- font-weight: bold;
- text-decoration: none;
-color: yellow;
-
-}
-
-a:hover{
-    text-decoration:underline
-}
-
-.especial:hover {
- color:whitesmoke;
- background-color:lightyellow;
- text-decoration: none;
-}
+        body {
+            background-color: #f0e68c;
+        }
